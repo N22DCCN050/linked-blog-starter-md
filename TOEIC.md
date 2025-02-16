@@ -1,412 +1,229 @@
-8 tuần lý thuyết 
-4 tuần giải đề 
-B1: Part of speech 
-Mạo trạng tính danh 
-Adj:  
-- Use "very"  
-- Ending: 
-    - ful: beautiful  
-    - ive: expensive  
-    - ous: famous 
-    - ble: fashionable  
-    - al: international 
+Basics
+	-  8 tuần lý thuyết 
+	- 4 tuần giải đề 
 
-Adv: 
-- ly:  
-    - serious (adj) -> seriously(adv) 
-    - successful (adj) -> successfully (adv) 
-
-Noun 
-
-- or: doctor 
-    
-- er: teacher 
-    
-- tion 
-    
-- sion: television 
-    
-- ment: payment 
-    
-
-124-125 
-
-132-133 
-
-138-139 
-
-To be (is/am/are) + adj V + adv 
-
-Trước of là danh từ 
-
-the ___ of 
+Lesson 1: Part of speech 
+	Mạo trạng tính danh 
+	Adj:  
+	- Use "very"  
+	- Ending: 
+	    - ful: beautiful  
+	    - ive: expensive  
+	    - ous: famous 
+	    - ble: fashionable  
+	    - al: international 
+	Adv: 
+	- ly:  
+	    - serious (adj) -> seriously(adv) 
+	    - successful (adj) -> successfully (adv) 
+	Noun 
+	- or: doctor 
+	- er: teacher 
+	- tion
+	- sion: television
+	- ment: payment
+	
+	124-125
+	132-133
+	138-139
+	
+	To be (is/am/are) + adj 
+	V + adv 
+	Trước of là danh từ 
+	the ___ of 
 
 Lesson 2 
-
-Nguyên tắc: 
-
-1. Ko suy luận  
-    
-
-Ví dụ: trong hình có một người đi về phía chiếc xe hơi 
-
-- Không chọn đáp án "A man is getting inside of his car" (một người đàn ông đang vào trong xe của anh ta" 
-    
-- Vì đó chỉ là bức ảnh tĩnh, không có cách nào để biết là chiếc xe đó của ai, hay người đó sẽ làm gì tiếp theo. Nên chọn đáp án "A man is walking towards a car" (một người đàn ông đang đi về phía một chiếc xe hơi) 
-    
-
-2. Cẩn thận với lượng từ 
-    
-
-All - every => some/most 
-
-Ví dụ: bức hình chụp một buổi biểu diễn ở một nhà hát và có rất nhiều khán giả ngồi xem 
-
-- Không chọn "All audiences are enjoying the performance" (mọi khán giả đều đang tận hưởng buổi trình diễn) 
-    
-- Vì không thể chắc là tất cả mọi người cùng làm một việc, hoặc là khán giả có thật sự thích buổi trình diễn đó hay không. Nên chọn "Some audiences are watching the performance" (một vài khán giả đang xem buổi trình diễn) 
-    
-
-1. Phần 1 có 6 tấm hình, 4 có người, 2 ko có người:  Hình ko có người thì ko chọn "being" (điều gì đó đang được thực hiện) 
-    
-
-- Vì không có người thì không có hoạt động, nên không thể chọn đáp án có chứa hoạt động 
-    
-
-2. Ko chọn "ready" (sắp làm gì) 
-    
-
-- Thuộc dạng tiên đoán tương lai => bất khả thi vì ta chỉ nhìn qua một tấm hình 
-    
-
-- Instruction => instructor 
-    
-- Fix/repair => repairman => repairshop 
-    
-- Examine 
-    
-- Tool: côngj cụ 
-    
-
-- Near (adj): gần (về không gian) 
-    
-
-=> Nearly (adv) : gần như 
-
-- Late (adj): muộn 
-    
-
-=> Lately (adv): gần đây 
-
-- Hard (adv): chăm chỉ => work/study hard 
-    
-
-=> Hardly (adv): gần như ko 
-
-126, 127, 132,138 
-
-Check up Test 1, 2: 5bộ 
-
-Check up Test 2: 1, 3, 5, 6, 7, 9, 11, 12, 14, 17, 19, 27, 28, 29, 30 
+	Nguyên tắc: 
+	1. Ko suy luận  
+		- Ví dụ: trong hình có một người đi về phía chiếc xe hơi 
+		- Không chọn đáp án "A man is getting inside of his car" (một người đàn ông đang vào trong xe của anh ta" 
+		- Vì đó chỉ là bức ảnh tĩnh, không có cách nào để biết là chiếc xe đó của ai, hay người đó sẽ làm gì tiếp theo. Nên chọn đáp án "A man is walking towards a car" (một người đàn ông đang đi về phía một chiếc xe hơi) 
+	2. Cẩn thận với lượng từ 
+		- All - every => some/most 
+		- Ví dụ: bức hình chụp một buổi biểu diễn ở một nhà hát và có rất nhiều khán giả ngồi xem 
+			- Không chọn "All audiences are enjoying the performance" (mọi khán giả đều đang tận hưởng buổi trình diễn) 
+			- Vì không thể chắc là tất cả mọi người cùng làm một việc, hoặc là khán giả có thật sự thích buổi trình diễn đó hay không. Nên chọn "Some audiences are watching the performance" (một vài khán giả đang xem buổi trình diễn)
+	3. Phần 1 có 6 tấm hình, 4 có người, 2 ko có người:  Hình ko có người thì ko chọn "being" (điều gì đó đang được thực hiện)
+		- Vì không có người thì không có hoạt động, nên không thể chọn đáp án có chứa hoạt động 
+	4. Ko chọn "ready" (sắp làm gì) 
+		- Thuộc dạng tiên đoán tương lai => bất khả thi vì ta chỉ nhìn qua một tấm hình 
+		- Instruction => instructor
+		- Fix/repair => repairman => repairshop
+		- Examine 
+		- Tool: công cụ 
+		- Near (adj): gần (về không gian) 
+			=> Nearly (adv) : gần như 
+		- Late (adj): muộn 
+			=> Lately (adv): gần đây 
+		- Hard (adv): chăm chỉ => work/study hard 
+			=> Hardly (adv): gần như ko
+		- High (adj): cao
+			=>Highly recommended
+		126, 127, 132,138 
+	Check up Test 2: 1, 3, 5, 6, 7, 9, 11, 12, 14, 17, 19, 27, 28, 29, 30 
 
 Lesson 4 
-
-Street 
-
-- Pavement/Sidewalk 
-    
-- Cross the road 
-    
-- Traffic lights  
-    
-- Walk 
-    
-- Stroll 
-    
-
-Wait + for 
-
-Over articulate 
-
-Perform 
-
-- Performance  
-    
-
-- Musician 
-    
-- Special 
-    
-- Delicious 
-    
-- Technician 
-    
-
-Backstage 
+	Street 
+	- Pavement/Sidewalk 
+	- Cross the road 
+	- Traffic lights  
+	- Walk 
+	- Stroll 
+	
+	Wait + for 
+	Over articulate 
+	
+	- Perform => Performance  
+	- Musician 
+	- Special 
+	- Delicious 
+	- Technician 
+	- Backstage 
 
 Lesson 5 
+	Some/a lot of 
+	Schwa 
+	
+	33-72 
+	
+	Vocab:  
+	- Lesson 5: 4, 6, 7, 10 
+	- Lesson 6: 1, 4, 6, 7, 11,  
 
-Some/a lot of 
+Lesson 6
 
-Schwa 
-
-33-72 
-
-Vocab:  
-
-- Lesson 5: 4, 6, 7, 10 
-    
-- Lesson 6: 1, 4, 6, 7, 11,  
-    
-
-Lesson 5 
-
-*Lis 
-
-7-31 (25c) 
-
-- Wh-question 
-    
-    - What 
-        
-    - Where  
-        
-    - When 
-        
-    - Why 
-        
-    - Who 
-        
-- Or 
-    
-- Yes - No 
-    
-- Statement  
-    
-
-Where:  
-
-- Ko chọn: 
-    
-    - Yes - No 
-        
-    - Of course 
-        
-    - Phát âm tương tự 
-        
-        - some books / booked the hotel 
-            
-        - some books / booked the hotel 
-            
-        
-- Chọn: 
-    
-    - at/on/in: Một điểm/trên một mặt phẳng/trong một k.gian 3 chiều 
-        
-    
-    At home/on the floor/in BH city 
-    
-    - Next to 
-        
-    - In front of 
-        
-    - Over there 
-        
-
-Not only..., but also...: không những... ,mà còn 
-
-Ex: Tom is not only handsome but also talented  
-
-(Tom không những đẹp trai mà còn tài năng nữa) 
-
-*Rea 
-
-148, 149 
-
-150: 1 2 4 7 8 9 
-
-151 1 2 3 4 
-
-I love you. 
-
-Do you love me? 
-
-Do you love I? 
-
-*Object pronouns  
-
-S + V + O (hên xui) 
-
-- It rains 
-    
-- I slept 
-    
-- I like (chicken) 
-    
-- I là chủ từ -> ko làm túc từ -> me 
-    
-
-*Possessive adj  
-
-Tính từ sở hữu + n 
-
-*Reflexive pronouns 
-
-Chủ từ + Túc từ là 1 
-
-by + -self/-selves 
-
-Vocab 
-
-Lesson 7: 8 12 
-
-Lesson 9: 5 6 9  
+	Lis 
+		- 7-31 (25c) 
+		- Wh-question 
+		    - What 
+		    - Where  
+		    - When 
+		    - Why 
+		    - Who 
+		- Or 
+		- Yes - No 
+		- Statement
+		
+	Where:  
+		- Ko chọn: 
+		    - Yes - No 
+		    - Of course 
+		    - Phát âm tương tự 
+		        - some books / booked the hotel
+		- Chọn: 
+		    - at/on/in: Một điểm/trên một mặt phẳng/trong một k.gian 3 chiều
+			    - At home/on the floor/in BH city 
+		    - Next to 
+		    - In front of 
+		    - Over there 
+		    
+	Not only..., but also...: không những... ,mà còn 
+		- Ex: Tom is not only handsome but also talented  
+		
+	Rea 
+		148, 149 
+		150: 1 2 4 7 8 9 
+		151 1 2 3 4 
+	Grammar
+		I love you.
+		Do you love me? 
+		Do you love I? 
+		
+		*Object pronouns  
+			S + V + O (hên xui) 
+			- It rains 
+			- I slept 
+			- I like (chicken)
+			- I là chủ từ -> ko làm túc từ -> me 
+		*Possessive adj  
+			Tính từ sở hữu + n 
+		*Reflexive pronouns 
+			Chủ từ + Túc từ là 1 
+			by + -self/-selves
+	Vocab 
+		Lesson 7: 8 12 
+		Lesson 9: 5 6 9  
 
 Lesson 7 
 
-*Listening 
-
-When 
-
-- Yesterday/Today/Tomorrow 
-    
-- At/on/in/by 
-    
-    - At vs By 
-        
-        - The meeting will start at 5 P.M. 
-            
-        - Please submit your exercise by 5 P.M. 
-            
-- Not ... Until 
-    
-- Not for another week: không kéo dài tới tuần sau, nghĩa là chỉ trong vòng 1 tuần 
-    
-    - Not for another hour/day 
-        
-
-*Pronunciation: nối âm 
-
-- an hour ago: nối âm cuối vào đầu âm tiếp theo 
-    
-- like her/him: âm /h/ thường bị âm khác lấn át. Trong TH này âm /k/ nối qua và lấn át âm /h/ 
-    
-
-*Grammar: phân biệt other, another, the other, the others 
-
-Dựa trên kiến thức về mạo từ:  
-
-- "a/an" chỉ đối tượng chưa được xác định 
-    
-    - A dog bit a man 
-        
-    - Con chó và người đàn ông lần đầu được nhắc đến nên chưa xác định cụ thể. 
-        
-- "the" chỉ đối tượng đã được xác định 
-    
-    - The man was taken to the hospital and the dog was caught 
-        
-    - Người đàn ông và con chó chính là đối tượng đã được nhắc đến ở trên. 
-        
-
-Phân biệt 
-
-Dùng another và other khi không khoanh vùng đối tượng 
-
-- Another: số ít, chưa xác định 
-    
-    - I don't like this phone, I'll take a look at another one. 
-        
-    - "Tôi sẽ xem qua một chiếc điện thoại khác", nhưng không rõ đó là chiếc nào. 
-        
-- Other: số nhiều, chưa xác định 
-    
-    - Some people prefer beaches, while other people enjoy going to the mountains. 
-        
-    - Không khoanh vùng đối tượng nên không rõ những người khác cụ thể là ai 
-        
-
-Dùng the other và the others khi đã khoanh vùng đối tượng 
-
-- The other: số ít, đã xác định 
-    
-    - Ms. Jefferson has two children. One of them is a doctor, the other is a teacher. 
-        
-    - Đã khoanh vùng đối tượng là 2 đứa con của bà J. Một người là bác sĩ, vậy người còn lại đã được xác định. 
-        
-- The others: số nhiều,  đã xác định 
-    
-    - Ms. Jefferson has five children. One of them is a doctor, the others are still students. 
-        
-    - Có khoanh vùng đối tượng. Một người là bác sĩ, vậy những người còn lại đã xác định. 
-        
-
-Vocab: 
-
-- Lesson 10: 5, 8, 11, 12 
-    
-- Lesson 11: 4, 8, 9, 11 
-    
+	*Listening 
+		When 
+			- Yesterday/Today/Tomorrow 
+			- At/on/in/by 
+			    - At vs By 
+			        - The meeting will start at 5 P.M.
+			        - Please submit your exercise by 5 P.M. 
+			- Not ... Until 
+			- Not for another week: không kéo dài tới tuần sau, nghĩa là chỉ trong vòng 1 tuần 
+		    - Not for another hour/day 
+		    
+	*Pronunciation: nối âm
+		- an hour ago: nối âm cuối vào đầu âm tiếp theo 
+		- like her/him: âm /h/ thường bị âm khác lấn át. Trong TH này âm /k/ nối qua và lấn át âm /h/ 
+		
+	*Grammar: phân biệt other, another, the other, the others 
+		Dựa trên kiến thức về mạo từ:  
+			- "a/an" chỉ đối tượng chưa được xác định 
+			    - A dog bit a man 
+			    - Con chó và người đàn ông lần đầu được nhắc đến nên chưa xác định cụ thể.
+			- "the" chỉ đối tượng đã được xác định 
+			    - The man was taken to the hospital and the dog was caught 
+			    - Người đàn ông và con chó chính là đối tượng đã được nhắc đến ở trên. 
+			    
+	Phân biệt 
+		Dùng another và other khi không khoanh vùng đối tượng 
+			- Another: số ít, chưa xác định
+			    - I don't like this phone, I'll take a look at another one. 
+			    - "Tôi sẽ xem qua một chiếc điện thoại khác", nhưng không rõ đó là chiếc nào.    
+			- Other: số nhiều, chưa xác định 
+			    - Some people prefer beaches, while other people enjoy going to the mountains. 
+			    - Không khoanh vùng đối tượng nên không rõ những người khác cụ thể là ai 
+			    
+		Dùng the other và the others khi đã khoanh vùng đối tượng 
+			- The other: số ít, đã xác định
+			    - Ms. Jefferson has two children. One of them is a doctor, the other is a teacher. 
+			    - Đã khoanh vùng đối tượng là 2 đứa con của bà J. Một người là bác sĩ, vậy người còn lại đã được xác định. 
+			- The others: số nhiều,  đã xác định 
+			    - Ms. Jefferson has five children. One of them is a doctor, the others are still students.
+			    - Có khoanh vùng đối tượng. Một người là bác sĩ, vậy những người còn lại đã xác định. 
+	        
+	
+	Vocab: 
+		- Lesson 10: 5, 8, 11, 12 
+		- Lesson 11: 4, 8, 9, 11 
 
 Lesson 8 
 
-*Listening 
-
-Vocab 
-
-- Proposal: đề xuất 
-    
-- Board (n): hội đồng 
-    
-- Hire: tuyển dụng 
-    
-- Executive: quản lý 
-    
-    - CEO: Chief Executive Officer 
-        
-- Approve: phê duyệt 
-    
-- Mention: đề cập 
-    
-- Fair (n): hội chợ 
-    
-    - Job-fair: hội chờ việc làm 
-        
-- Complicated: phức tạp 
-    
-
-How 
-
-- Much 
-    
-- Many: số 
-    
-- Far: kilometers,... 
-    
-- How long: minutes, hours, days, weeks 
-    
-- ...go/get...: vehicles: motorcyle, bicycle, bus,… 
-    
-    - How do you go/get to school? 
-        
-- ... pay:  
-    
-    - Cash: dollars/cents 
-        
-    - Cheque/check 
-        
-    - Credit card/Debit card 
-        
-- Often:  
-    
-    - Once/twice/three times a day/week/month 
-        
-    - Once every 2 days/3 months/6 months 
-        
-        - Once bitten twice shy (Chim sợ cành cong) 
-            
-
-*Grammar: so sánh 
+	*Listening 
+		Vocab 
+			- Proposal: đề xuất 
+			- Board (n): hội đồng 
+			- Hire: tuyển dụng 
+			- Executive: quản lý 
+			    - CEO: Chief Executive Officer 
+			- Approve: phê duyệt 
+			- Mention: đề cập
+			- Fair (n): hội chợ 
+			    - Job-fair: hội chờ việc làm 
+			- Complicated: phức tạp 
+			
+		How 
+			- Much 
+			- Many: số 
+			- Far: kilometers,... 
+			- How long: minutes, hours, days, weeks
+			- ...go/get...: vehicles: motorcyle, bicycle, bus,…
+			    - How do you go/get to school?
+			- ... pay:
+			    - Cash: dollars/cents
+			    - Cheque/check
+			    - Credit card/Debit card 
+			- Often:  
+			    - Once/twice/three times a day/week/month 
+			    - Once every 2 days/3 months/6 months 
+			        - Once bitten twice shy (Chim sợ cành cong) 
+	            
+	*Grammar: so sánh 
 
 So sánh hơn 
 
@@ -1084,7 +901,7 @@ Preposition 1, 2 
 - Other: at reasonable price 
     
 
-3. . 
+5. . 
     
 
 - According to: theo như 
@@ -1128,13 +945,13 @@ LC tr.25 
 - "The party" là chủ từ, "will take place" là động từ 
     
 
-4. Holding 
+6. Holding 
     
-5. Held 
+7. Held 
     
-6. Will be held 
+8. Will be held 
     
-7. Is held 
+9. Is held 
     
 
 Đáp án nào đúng? 
