@@ -4,4 +4,3 @@ Thiết kế dữ liệu
 	- Cần có ít nhất 5 lệnh:
 		- add, update, delete, queue1, queue2
 Thiết kế giao diện (Thiết kế tài liệu)
-ơ
