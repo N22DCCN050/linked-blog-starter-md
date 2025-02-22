@@ -31,10 +31,10 @@ SELECT * FROM SYS.sysmember
 
 EX4:
 	CREATE PROCEDURE getUserGroup
-		@username NVARCHAR(255)
+		@username VARCHAR(20)
 	AS 
 	BEGIN
-		DECKARE @uid INT
+		DECLARE @uid INT
 		SELECT @uid=uid
 		FROM sys.sysusers WHERE name=@username
 	
@@ -42,3 +42,26 @@ EX4:
 		FROM SYS.sysusers
 		INNER JOIN SELECT (groupuid FROM SYS.sysusers WHERE memberuid=@uid) TMP ON SYS.sysusers.uid=TMP.groupuid
 	END
+EX5:
+	CREATE PROCEDURE getUsersInGroup
+	    @rolename VARCHAR(20) 
+	AS
+	BEGIN
+	    DECLARE @roleid INT; 
+	    SELECT @roleid = uid
+	    FROM sys.sysusers WHERE name = @rolename;
+	    
+	    //IF @group_uid IS NULL
+	    //BEGIN
+	    //    PRINT 'Không tìm thấy nhóm';
+	    //    RETURN;
+	    //END
+	    
+	    SELECT NAME AS TEN_USER
+	    FROM SYS.sysusers
+	    INNER JOIN (SELECT memberuid FROM SYS.sysmember WHERE groupuid = @roleid) TMP ON SYS.sysusers.uid=TMP.groupuid
+	END
+
+BT 567
+
+dropuser + droplogin
