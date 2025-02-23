@@ -111,10 +111,12 @@ Lesson 6
 		    - Phát âm tương tự 
 		        - some books / booked the hotel
 		- Chọn: 
+		- I'm not sure, not yet decided, IDK
+		- 
 		    - at/on/in: Một điểm/trên một mặt phẳng/trong một k.gian 3 chiều
 			    - At home/on the floor/in BH city 
 		    - Next to 
-		    - In front of 
+		    - In front of /behind
 		    - Over there 
 		    
 	Not only..., but also...: không những... ,mà còn 
