@@ -82,7 +82,7 @@ Lesson 4 
 
 Lesson 5 
 	Some/a lot of 
-	Schwa 
+	Schwa
 	
 	33-72 
 	
