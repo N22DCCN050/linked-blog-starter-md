@@ -5,6 +5,14 @@ Backup qua device
 Backup trực tiếp trên file
 Đổi tên file để tránh bị windows scan
 
+Giao tác tự động khi chỉ có 1 lệnh (create/delete/update)
+
+Recovery: 3 đk:
+
+- Mode recovery: phải là Full
+- ?
+- ?
+
 CREATE PROCEDURE Getbackup @QLVT_AT NVARCHAR(255)
 AS
 BEGIN
