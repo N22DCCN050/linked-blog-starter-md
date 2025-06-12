@@ -1,5 +1,10 @@
-Basics
-	-  8 tuần lý thuyết 
+Buổi 1:
+Basics: 12 tuần
+	-  8 tuần lý thuyết: 
+		- Listening (45p, 6h-6h45)
+		- Reading (45p, 6h45-7h30)
+			- Grammar + RC
+		- BT A + B
 	- 4 tuần giải đề 
 
 Lesson 1: Part of speech 
@@ -19,18 +24,26 @@ Lesson 1: Part of speech 
 	Noun 
 	- or: doctor 
 	- er: teacher 
-	- tion
+	- tion production 
 	- sion: television
 	- ment: payment
 	
+	To be (is/am/are) + adj 
+	V + adv 
+	Trước of là danh từ:
+		the ___ of
+Sach: từ 124 về sau: Reading
+
+126: 1 3 4 8 9 
+127: 4 
+132: 2 3 6 
+133: 3 4 
+138: 3 4 8 
+139: 1 4 
+	 
 	124-125
 	132-133
 	138-139
-	
-	To be (is/am/are) + adj 
-	V + adv 
-	Trước of là danh từ 
-	the ___ of 
 
 Lesson 2 
 	Nguyên tắc: 
@@ -51,6 +64,7 @@ Lesson 2 
 		- Fix/repair => repairman => repairshop
 		- Examine 
 		- Tool: công cụ 
+		-
 		- Near (adj): gần (về không gian) 
 			=> Nearly (adv) : gần như 
 		- Late (adj): muộn 
@@ -60,7 +74,22 @@ Lesson 2 
 		- High (adj): cao
 			=>Highly recommended
 		126, 127, 132,138 
-	Check up Test 2: 1, 3, 5, 6, 7, 9, 11, 12, 14, 17, 19, 27, 28, 29, 30 
+	Check up Test 2: 1, 3, 5, 6, (7, 9,) 11, (12,) 14, 17, 19, 27, 28, 29, 30 
+	Check up test 1: 2 5 8 9 10 12 15 17 18 19 24 27 29 30 
+Listening: p.14, 15
+
+Lie detector 
+3yo gymnast 
+
+
+p.138: 5 7 
+p.139: 2 3
+
+
+
+
+	
+
 
 Lesson 4 
 	Street 
