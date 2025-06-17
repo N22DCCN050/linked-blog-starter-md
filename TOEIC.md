@@ -74,8 +74,11 @@ Lesson 2 
 		- High (adj): cao
 			=>Highly recommended
 		126, 127, 132,138 
-	Check up Test 2: 1, 3, 5, 6, (7, 9,) 11, (12,) 14, 17, 19, 27, 28, 29, 30 
+		
+	Check up Test 2: 1, 3, 5, 6, (7, 9,) 11, 12, 13, 14, 17, 19, 27, 28, 29, 30 
+	
 	Check up test 1: 2 5 8 9 10 12 15 17 18 19 24 27 29 30 
+
 Listening: p.14, 15
 
 Lie detector 
@@ -86,11 +89,61 @@ p.138: 5 7
 p.139: 2 3
 
 
+Lesson 3: 
+Listening: p.23, 24, 41
+	Vocab:
+	- work on
+	- take care of ≈ look after 
+	- fix = repair => repairman => repair shop 
+	- tool
+	- look for ≈ search 
+	- drink
+	- coin
+	- vending machine 
+	- reach
+	- can
+	- 
+Lesson 4
+	Listening: p.59, 60, 77, 78
+		Perform => performer vs vocalist
+				=> Performance
+		Composer 
+		Audience
+		Instrument 
+	S(vật) + be + being + V3
 
+		Tree => surround (v)
+		Porch
+		Newspaper 
+		Dog(g)
 
+	Grammar: noun
+	- countable
+		- số ít: each/every/another 
+		- số nhiều: many/few/several/most
+	- uncountable: much/little
+		- lỏng
+		- bột
+		- khí
+		- trừu tượng
+	- child piano prodigy evan le
+		- https://youtu.be/vN9kaRw6y7E
+	- the sketch show - sign language
+		- https://youtu.be/N5bg1No_RSE
+	- Flashback Of The Friends Finding Out About Chandler And Monica
+		- https://youtu.be/CzJaNQiAKyM
+
+	p144: 2 3 4 5 9
+	P145: 1 4 2 
+
+	Present simple
+	- I like chicken 
+	- He likes chicken 
+	- Every night, he texts his girlfriend(s)
+	Everything happens for a reason 
+	Ngôi 3 số ít + V(s/es)
+	p144
 	
-
-
 Lesson 4 
 	Street 
 	- Pavement/Sidewalk 
